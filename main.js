@@ -3,7 +3,7 @@ noseY=0;
 
 function preload() 
 {
-clown_nose = loadImage('https://i.postimg.cc/zBCcdLCj/1892351.png');
+clown_nose = loadImage('https://i.postimg.cc/TYGvvHS6/download-2-removebg-preview.png');
 }
 function setup() 
 { canvas = createCanvas(300, 300); canvas.center(); 
